@@ -56,9 +56,10 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 📸 Screenshots
 
+
 <img width="1297" height="681" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/128e5cc1-b52d-47d9-b43c-88820f54af47" />
 
-<img width="1305" height="682" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/b905a0f0-5161-4bc7-927c-2aa0e82bb763" />
+
 
 <img width="1283" height="689" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/e22a5088-4089-4bac-9a46-cb7586467d52" />
 
