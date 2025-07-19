@@ -41,7 +41,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/doctor-appointment-app.git
+git clone https://github.com/KSushma-17/docspot-seamless-appointment-booking-for-health
 cd doctor-appointment-app
 
 2.Install dependencies:
