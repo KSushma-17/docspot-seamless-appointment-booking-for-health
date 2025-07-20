@@ -74,7 +74,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 ## ⚙️ Installation & Setup
 
-1.Clone the repository:
+#### 1.Clone the repository:
 
 git clone https://github.com/KSushma-17/docspot-seamless-appointment-booking-for-health
 
@@ -82,11 +82,11 @@ git clone https://github.com/KSushma-17/docspot-seamless-appointment-booking-for
 
 cd doctor-appointment-app
 
-2.Install dependencies:
+#### 2.Install dependencies:
 
 npm install
 
-3.Set up environment variables:
+#### 3.Set up environment variables:
 
 
 
@@ -98,13 +98,16 @@ DB_URI=your_database_uri
 
 JWT_SECRET=your_secret
 
-4.Start the development server:
+#### 4.Start the development server:
 
 npm start
 
 ## 🧪 Testing
 
-Run tests using:
+#### Run tests using:
+
+
+
 npm test
 
 ## 📌 Future Enhancements
@@ -151,7 +154,7 @@ Please fork the repository and submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+#### This project is licensed under the MIT License.
 
 🔗 Drive :https://drive.google.com/folderview?id=1YNd2_oBg1H7jTkaT-3lpbYPmTKh-oDc4
 
