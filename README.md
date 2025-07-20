@@ -2,7 +2,7 @@
 
 A simple and efficient doctor appointment booking system that allows users to book, manage, and track doctor visits easily. This app aims to streamline the process for both patients and healthcare providers.
 
-#H2-Big🚀Features
+##🚀Features
 
 .👨‍⚕️ Doctor & Patient Login
 
