@@ -32,7 +32,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 .Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
@@ -54,7 +54,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 
 <img width="1297" height="681" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/128e5cc1-b52d-47d9-b43c-88820f54af47" />
@@ -72,7 +72,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 <img width="1307" height="689" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/9626c80f-e37b-40f0-867b-cfa584a6d612" />
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1.Clone the repository:
 
@@ -102,12 +102,12 @@ JWT_SECRET=your_secret
 
 npm start
 
-🧪 Testing
+## 🧪 Testing
 
 Run tests using:
 npm test
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 
 .👨‍⚕️ Doctor Profile Management
@@ -129,7 +129,7 @@ npm test
 .🗣️ Multi-Language Support
 
 
-🐞 Known Issues
+## 🐞 Known Issues
 
 
 .No calendar sync yet.
@@ -143,13 +143,13 @@ npm test
 .UI glitches on very small screen sizes.
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 
 Please fork the repository and submit a pull request.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
